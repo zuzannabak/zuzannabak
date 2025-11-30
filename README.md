@@ -10,10 +10,14 @@ Here are a few things I've been building:
   👉 https://github.com/zuzannabak/cost-utility-calculator
 
 - **NCAA Baseball Knowledge Graph** — scraping + cleaning NCAA rosters and mapping them into a Neo4j graph for exploration  
-  👉 [https://github.com/zuzannabak/ncaa-baseball-kg](https://github.com/zuzannabak/ncaa-baseball-kg-scraping)
+  👉 https://github.com/zuzannabak/ncaa-baseball-kg-scraping
 
 - **Healthy-Lifestyle Network Diffusion** — analyzing how behaviors spread across Reddit communities using graph features and logistic models  
   👉 https://github.com/zuzannabak/health-neighbor-analysis
+
+- **EEG-Based Learning Outcome Prediction** — machine learning models predicting student comprehension from EEG signals using spectral band-power features, subject-wise evaluation, and imbalance strategies (FNN vs. XGBoost)  
+  👉 https://github.com/zuzannabak/eeg-based-learning
+
 
 I’ve also worked on smaller projects in Python, R, Django, and AWS — everything from an image-processing web app to statistical analysis for my undergraduate thesis.
 
