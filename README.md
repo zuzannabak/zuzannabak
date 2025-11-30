@@ -10,7 +10,7 @@ Here are a few things I've been building:
   👉 https://github.com/zuzannabak/cost-utility-calculator
 
 - **NCAA Baseball Knowledge Graph** — scraping + cleaning NCAA rosters and mapping them into a Neo4j graph for exploration  
-  👉 https://github.com/zuzannabak/ncaa-baseball-kg
+  👉 [https://github.com/zuzannabak/ncaa-baseball-kg](https://github.com/zuzannabak/ncaa-baseball-kg-scraping)
 
 - **Healthy-Lifestyle Network Diffusion** — analyzing how behaviors spread across Reddit communities using graph features and logistic models  
   👉 https://github.com/zuzannabak/health-neighbor-analysis
